@@ -1,0 +1,2 @@
+[config]
+mediaTypes = wav, mp3, m3u, wma, txt
